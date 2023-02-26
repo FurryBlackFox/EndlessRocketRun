@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a2d747451404edd9cd8f9a7b5e910d5, type: 3}
+  m_Name: PlayerSettings
+  m_EditorClassIdentifier: 
+  <HorizontalInputIncreasePerSec>k__BackingField: 7
+  <HorizontalInputDecreasePerSec>k__BackingField: 2
+  <VerticalInputGainPerSec>k__BackingField: 1.8
+  <MaxRotationInputValue>k__BackingField: 200
+  <MaxSpeed>k__BackingField: 15
+  <MaxSpeedAcceleration>k__BackingField: 60
+  <MaxRotationAngle>k__BackingField: 65
+  <ExplosionVelocityForceRange>k__BackingField: {x: 25, y: 35}
+  <ExplosionRotationForceRange>k__BackingField: {x: 15, y: 25}
+  <ExplosionVelocityForceMaxRandomAngle>k__BackingField: 15
+  <MaxRollRotationAngle>k__BackingField: 45
+  <MaxPitchRotationAngle>k__BackingField: 7.5

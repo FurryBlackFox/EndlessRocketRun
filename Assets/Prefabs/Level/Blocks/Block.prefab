@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5450281095357034122}
   - component: {fileID: 7802414398363441728}
   - component: {fileID: 621428571960729350}
+  - component: {fileID: 1868019838395594827}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -99,3 +100,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 9.8777895, y: 3, z: 3.148337}
   m_Center: {x: 0.017666817, y: -0.0000062584877, z: 0.06449056}
+--- !u!54 &1868019838395594827
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8594912074066770837}
+  serializedVersion: 2
+  m_Mass: 1000
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
